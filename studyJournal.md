@@ -1,5 +1,5 @@
-#February 26, 2019
-##LPTHW
+# February 26, 2019
+## LPTHW
 
 Created Git repository for LPTHW.
 
