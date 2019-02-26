@@ -1,8 +1,11 @@
-# February 26, 2019
-## LPTHW
+# LPTHW
 
-Created Git repository for LPTHW.
+## Diary to Completing the book
 
-Took inventory of files already done but untracked.
+February 26, 2019
 
-Decided to restart book instead of uploading all of the files. Currently on Ex28.py, so restarting will be beneficial and speedy.
+1. Created Git repository for LPTHW.
+
+2. Took inventory of files already done but untracked.
+
+3. Decided to restart book instead of uploading all of the files. Currently on Ex28.py, so restarting will be beneficial and speedy.
