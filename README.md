@@ -7,4 +7,5 @@ Requirements:
 (third edition)
 
 2. python 2.7
- 
+
+3. MAC OSX
