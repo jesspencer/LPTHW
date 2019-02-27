@@ -11,4 +11,10 @@ February 26, 2019
 3. Decided to restart book instead of uploading all of the files.
 Currently on Ex28.py, so restarting will be beneficial and speedy.
 
-3. Started timer on togler; goal is to complete first 5 exercises. 
+4. Started timer on togler; goal is to complete first 5 exercises.
+
+5. completed exersies 2-6
+
+6. took 2 hrs
+
+7. tracked files with git 
