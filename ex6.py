@@ -25,5 +25,11 @@ print joke_evaluation % hilarious
 w = "This is the left side of ..."
 #creates the variable e
 e = "a string with a right side."
-#prints the variable w along with e and the plus sign provides spacing 
+#prints the variable w along with e and the plus sign provides spacing
 print w + e
+
+'''
+study drills
+
+1 above each line explain what is happening
+'''
