@@ -20,4 +20,8 @@ Currently on Ex28.py, so restarting will be beneficial and speedy.
 7. tracked files with git
 
 ## March 3, 2019
-1. completed 7, 8, 9 
+1. completed 7, 8, 9
+
+2. updated github repository LPTHW
+
+3. updated readme file with the "How to Run Files" section
