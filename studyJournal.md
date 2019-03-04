@@ -2,7 +2,7 @@
 
 ## Diary to Completing the book
 
-February 26, 2019
+## February 26, 2019
 
 1. Created Git repository for LPTHW.
 
@@ -17,4 +17,7 @@ Currently on Ex28.py, so restarting will be beneficial and speedy.
 
 6. took 2 hrs
 
-7. tracked files with git 
+7. tracked files with git
+
+## March 3, 2019
+1. completed 7, 8, 9 
