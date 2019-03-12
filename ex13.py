@@ -1,7 +1,7 @@
 #!usr/bin/env python2.7
 
 from sys import argv
-
+#this is what prints next to each variable it can be changed and updated as well 
 script, first, second, third = argv
 
 print "The script is called:", script
