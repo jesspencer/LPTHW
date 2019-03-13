@@ -43,7 +43,7 @@ tue = 10-2
 wed = 3-11
 
 print "We can also do math with the schedules:"
-jessica_work_schedule(5+ 4 + 7)
+jessica_work_schedule(5 + 0,  4 + 1, 7 +1)
 
 print "And we can combine the two, variables and math:"
 jessica_work_schedule(mon + 4, tues + 3, wed + 3)
