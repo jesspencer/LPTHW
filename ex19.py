@@ -21,3 +21,29 @@ cheese_and_crackers(10 + 20, 5 + 6)
 
 print "And we can combine the two, variables and math:"
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
+
+'''
+Study Drills
+3. Write at least one more function of your own design, and run it 10 different ways
+'''
+
+def jessica_work_schedule(mon, tues, wed):
+    print "This is Jessica's schedule for Monday is %s" % mon
+    print "This is Jessica's work schedule for Tuesday %s" % tues
+    print "This is Jessica's work schedule for Wednesday %s" % wed
+    print "She only works three days \n"
+
+
+print "We can just give the numbers directly"
+jessica_work_schedule(5-10, 10-3, 3-11)
+
+print "Or, lets use variables for our script"
+mon = 5-10
+tue = 10-2
+wed = 3-11
+
+print "We can also do math with the schedules:"
+jessica_work_schedule(5+ 4 + 7)
+
+print "And we can combine the two, variables and math:"
+jessica_work_schedule(mon + 4, tues + 3, wed + 3)
