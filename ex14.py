@@ -3,7 +3,7 @@
 from sys import argv
 
 script, user_name = argv
-prompt = '='
+prompt = '>'
 
 print "Hi %s, I'm the %s script." % (user_name, script)
 print "I'd like to ask you a few questions."
@@ -21,3 +21,10 @@ Alright, so you said %r about liking me.
 You live in %r. Not sure where that is.
 And you have a %r computer. Nice.
 """ % (likes, lives, computer)
+
+"""
+Study drills
+1. Changed the prompt from '=' to '>' and the same script ran
+except this time the space for the raw input had a noticable '>' sign.
+
+"""
