@@ -39,7 +39,7 @@ jessica_work_schedule(5-10, 10-3, 3-11)
 
 print "Or, lets use variables for our script"
 mon = 5-10
-tue = 10-2
+tues = 10-2
 wed = 3-11
 
 print "We can also do math with the schedules:"
