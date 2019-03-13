@@ -36,4 +36,5 @@ Study Drills
 3. There is too much repetition in this file. Use strings, formats, and escapes to
 print out line1, line2, and line3 with just one target.write() command instead
 of six.
+...done
 """
