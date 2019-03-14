@@ -46,4 +46,4 @@ print "We can also do math with the schedules:"
 jessica_work_schedule(5 + 0,  4 + 1, 7 +1)
 
 print "And we can combine the two, variables and math:"
-jessica_work_schedule(str(mon) + 4, str(tues) + 3, str(wed) + 3)
+jessica_work_schedule(mon + str(4), tues + str(3), wed + str(3))
