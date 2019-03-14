@@ -38,9 +38,9 @@ print "We can just give the numbers directly"
 jessica_work_schedule(5-10, 10-3, 3-11)
 
 print "Or, lets use variables for our script"
-mon = '5-10'
-tues = '10-2'
-wed = '3-11'
+mon = 5
+tues = 4
+wed = 6
 
 print "We can also do math with the schedules:"
 jessica_work_schedule(5 + 0,  4 + 1, 7 +1)
