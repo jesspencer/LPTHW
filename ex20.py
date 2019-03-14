@@ -20,7 +20,7 @@ print "First let's print the whole file:\n"
 print_all(current_file)
 
 print "Now let's rewind, kind of like a tape."
-
+#this turns each line into a variable that can called with the name current_line
 rewind(current_file)
 
 print "Let's print three lines:"
