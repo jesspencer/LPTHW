@@ -25,7 +25,7 @@ rewind(current_file)
 
 print "Let's print three lines:"
 
-current_line = 1
+current_line = 0
 print_a_line(current_line, current_file)
 
 current_line += current_line
