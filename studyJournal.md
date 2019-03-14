@@ -25,3 +25,10 @@ Currently on Ex28.py, so restarting will be beneficial and speedy.
 2. updated github repository LPTHW
 
 3. updated readme file with the "How to Run Files" section
+
+## March 13, 2019
+1. completed 11-20
+
+2. updated github following the commit style explained in Udacity python fullstack course
+
+3. updated studyjournal.md 
