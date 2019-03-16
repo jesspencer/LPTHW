@@ -32,3 +32,6 @@ Currently on Ex28.py, so restarting will be beneficial and speedy.
 2. updated github following the commit style explained in Udacity python fullstack course
 
 3. updated studyjournal.md
+
+## March 16, 2019
+1. completed ex25.py and updated git up with the previous ex 20-25 done 
