@@ -24,7 +24,17 @@ for i in range(0, 6):
     print "Adding %d to the list." % i
     #append is a funtion that lists understand
     elements.append(i)
-
+#avoiding the for loop
+for i in the_count:
+    print "Skippping the zero; adding %d to the list." %i
 #now we can print them out too
 for i in elements:
     print "Element was: %d" %i
+
+'''Study drills
+1. Take a look at how you used range. Look up the range function to understand it
+done
+2. Could you have avoided that for -loop entirely on line 22 and just assigned range(0, 6) directly to elements
+
+3. Find the Python documentation on lists and read about them. What other operations can you do to lists besides append
+'''
